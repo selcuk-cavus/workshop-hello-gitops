@@ -8,4 +8,4 @@ namespace: hello-gitops
 images:
 - name: hello-gitops
   newName: selobit/hello-gitops
-  newTag: latest
+  newTag: e155c6db77c43531bcc885fe6501bafe7be91a05
